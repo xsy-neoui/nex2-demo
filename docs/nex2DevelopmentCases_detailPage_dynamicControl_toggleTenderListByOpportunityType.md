@@ -1,0 +1,8 @@
+# 根据商机类型控制详情页招标列表显示
+-   [概述](nex2DevelopmentCases_detailPage_dynamicControl_toggleTenderListByOpportunityType_overview.md)
+-   [业务场景](nex2DevelopmentCases_detailPage_dynamicControl_toggleTenderListByOpportunityType_businessScenario.md)
+-   [方案介绍](nex2DevelopmentCases_detailPage_dynamicControl_toggleTenderListByOpportunityType_solutionOverview.md)
+-   [方案配置](nex2DevelopmentCases_detailPage_dynamicControl_toggleTenderListByOpportunityType_solutionConfiguration.md)
+-   [验证与测试](nex2DevelopmentCases_detailPage_dynamicControl_toggleTenderListByOpportunityType_validationTesting.md)
+-   [注意事项与最佳实践](nex2DevelopmentCases_detailPage_dynamicControl_toggleTenderListByOpportunityType_considerationsAndBestPractices.md)
+-   [常见错误与排查指引](nex2DevelopmentCases_detailPage_dynamicControl_toggleTenderListByOpportunityType_commonErrorsAndTroubleshootingGuidelines.md)
