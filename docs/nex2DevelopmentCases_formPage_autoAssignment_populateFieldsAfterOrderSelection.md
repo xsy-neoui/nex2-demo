@@ -1,8 +1,0 @@
-# 变更单选择关联订单后自动带出主表字段及明细数据
--   [概述](nex20DevelopmentCaseTutorial_multiLevelApprovalTaskWorkOrderEntryFormExtensionControl_overview.md)
--   [业务场景](nex20DevelopmentCaseTutorial_multiLevelApprovalTaskWorkOrderEntryFormExtensionControl_businessScenario.md)
--   [方案介绍](nex20DevelopmentCaseTutorial_multiLevelApprovalTaskWorkOrderEntryFormExtensionControl_solutionOverview.md)
--   [方案配置](nex20DevelopmentCaseTutorial_multiLevelApprovalTaskWorkOrderEntryFormExtensionControl_solutionConfiguration.md)
--   [验证与测试](nex20DevelopmentCaseTutorial_multiLevelApprovalTaskWorkOrderEntryFormExtensionControl_validationTesting.md)
--   [注意事项与最佳实践](nex20DevelopmentCaseTutorial_multiLevelApprovalTaskWorkOrderEntryFormExtensionControl_considerationsAndBestPractices.md)
--   [常见错误与排查指引](nex20DevelopmentCaseTutorial_multiLevelApprovalTaskWorkOrderEntryFormExtensionControl_commonErrorsAndTroubleshootingGuidelines.md)

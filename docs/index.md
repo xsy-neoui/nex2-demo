@@ -8,23 +8,23 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /nex20DevelopmentCaseTutorial_introduction
+      link: /introduction
     - theme: alt
       text: 表单页示例
-      link: /nex2DevelopmentCases_formPage
+      link: /web/form-page/
 features:
   - title: 表单页 · 自动赋值
     details: 变更单选择关联订单后自动带出主表字段与明细数据、AI 内容优化回填
-    link: /nex2DevelopmentCases_formPage_autoAssignment
+    link: /web/form-page/auto-assignment/
   - title: 表单页 · 数据校验
     details: 主子表金额约束控制，保证主子表金额一致性
-    link: /nex2DevelopmentCases_formPage_dataValidation
+    link: /web/form-page/data-validation/
   - title: 列表页 · 样式扩展
     details: 按条件高亮显示数值字段，自定义列表字段样式
-    link: /nex2DevelopmentCases_listPage_styleExtension
+    link: /web/list-page/style-extension/
   - title: 详情页 · 动态控制
     details: 复杂逻辑控制操作按钮显示、禁止直接新增合同和订单、按商机类型控制招标列表显示
-    link: /nex2DevelopmentCases_detailPage_dynamicControl
+    link: /web/detail-page/dynamic-control/
 ---
 
 ## 关于本文档
@@ -46,13 +46,13 @@ features:
 
 | 页面类型 | 分类 | 示例 |
 |----------|------|------|
-| 表单页 | 自动赋值类 | [变更单选择关联订单后自动带出主表字段及明细数据](/nex2DevelopmentCases_formPage_autoAssignment_populateFieldsAfterOrderSelection) |
-| 表单页 | 自动赋值类 | [AI 内容优化回填](/nex2DevelopmentCases_formPage_autoAssignment_aiContentAutoFill) |
-| 表单页 | 数据校验类 | [主子表金额约束控制](/nex2DevelopmentCases_formPage_dataValidation_masterDetailAmountConstraint) |
-| 列表页 | 样式扩展类 | [按条件高亮显示数值字段](/nex2DevelopmentCases_listPage_styleExtension_highlightNumberFieldByCondition) |
-| 详情页 | 动态控制类 | [基于复杂逻辑动态控制右上角操作按钮显示](/nex2DevelopmentCases_detailPage_dynamicControl_toggleTopRightActionButtonByComplexLogic) |
-| 详情页 | 动态控制类 | [销售机会详情页禁止直接新增合同和订单](/nex2DevelopmentCases_detailPage_dynamicControl_preventDirectContractAndOrderCreation) |
-| 详情页 | 动态控制类 | [根据商机类型控制详情页招标列表显示](/nex2DevelopmentCases_detailPage_dynamicControl_toggleTenderListByOpportunityType) |
+| 表单页 | 自动赋值类 | [变更单选择关联订单后自动带出主表字段及明细数据](/web/form-page/auto-assignment/populate-fields-after-order-selection/) |
+| 表单页 | 自动赋值类 | [AI 内容优化回填](/web/form-page/auto-assignment/ai-content-auto-fill/) |
+| 表单页 | 数据校验类 | [主子表金额约束控制](/web/form-page/data-validation/master-detail-amount-constraint/) |
+| 列表页 | 样式扩展类 | [按条件高亮显示数值字段](/web/list-page/style-extension/highlight-number-field-by-condition/) |
+| 详情页 | 动态控制类 | [基于复杂逻辑动态控制右上角操作按钮显示](/web/detail-page/dynamic-control/toggle-top-right-action-button-by-complex-logic/) |
+| 详情页 | 动态控制类 | [销售机会详情页禁止直接新增合同和订单](/web/detail-page/dynamic-control/prevent-direct-contract-and-order-creation/) |
+| 详情页 | 动态控制类 | [根据商机类型控制详情页招标列表显示](/web/detail-page/dynamic-control/toggle-tender-list-by-opportunity-type/) |
 
 ## 前置知识
 
