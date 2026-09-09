@@ -6,7 +6,6 @@ node_modules/
 # Gerrit skill credentials — never commit tokens
 .gerritskillrc
 .neo-cli/
-html/
 npm/
 
 package-lock.json

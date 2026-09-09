@@ -1,0 +1,1 @@
+const t="/assets/detailPage_dynamicControl_toggleTenderListByOpportunityType_validationTesting1.Cmvbl7l3.png",e="/assets/detailPage_dynamicControl_toggleTenderListByOpportunityType_validationTesting2.BwhPw2Nh.png";export{t as _,e as a};
