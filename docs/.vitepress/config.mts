@@ -7,6 +7,9 @@ export default defineConfig(
     "base": "/",
     "outDir": "../html",
     "assetsDir": "./assets",
+    vite: {
+      publicDir: '../public',
+    },
     "title": "NEX 2.0 页面扩展开发示例",
     "description": "NEX 2.0 页面扩展开发示例：表单页、列表页、详情页的典型扩展示例",
     "head": [
